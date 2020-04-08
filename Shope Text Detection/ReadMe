@@ -1,0 +1,1 @@
+Change the image path  : self.image = cv2.imread("E:/POJJA/SHOP using OCR/opencv-text-detection/images/j.jpg")
